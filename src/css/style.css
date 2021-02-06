@@ -1,0 +1,49 @@
+.container {
+    display: grid;
+    grid-template-columns: 170px 1fr;
+    padding-left: 250px;
+}
+
+.person {
+    color: red;
+    font-weight: bold;
+
+}
+
+.name {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.text {
+    margin-left: 30px;
+}
+
+.sphere {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.spis {
+    margin-left: 400px;
+    font-size: 15px;
+}
+
+.body {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    line-height: 1.88;
+    font-weight: 400;
+}
+
+.phoo .hot {
+    display: flex;
+
+}
+
+
